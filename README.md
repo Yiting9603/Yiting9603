@@ -4,7 +4,6 @@
 
 
 - 📖 I’m learning Front-end Development and Visual Design
-- 🏫 I studied Internet and New Media at Sun Yat-sen University(2014-2018)
 - 😄 Fun fact: This is my first time writing code
 
   
